@@ -1,12 +1,10 @@
-- title: Computing Research Center - IPN
+- title: Master in Computer Science, Computing Research Center - IPN
   from: 2020
-  to: present   (Master in Computer Science)
-  description: 
-
-              Combinatorial Optimization, Machine Learning and Deep Learning,
+  to: present
+  description: Combinatorial Optimization, Machine Learning and Deep Learning,
               Spectral Graph Theory, Randomized Algorithms, Approximation Algorithms
-- title: Facultad de Ciencias Exactas - UJED
+- title: Bachelor in Applied Mathematics, Facultad de Ciencias Exactas - UJED
   from: 2015
   to: 2019
-  description: Bachelor in Applied Mathematics
+  description: 
               Streaming Algorithms
